@@ -54,8 +54,11 @@ Welcome to the **Multi-Format Document Chat App**! This intelligent Streamlit ap
 ---
 
 ## 📁 **Directory Structure**
+```
 project-root/
-├── app.py # Main Streamlit application
-├── document_metadata.json # Metadata map for uploaded documents
-├── document_databases/ # Vector DB folders per document
-├── .env # Your API keys
+├── app.py                   # Main Streamlit application
+├── document_metadata.json   # Metadata map for uploaded documents
+├── document_databases/      # Vector DB folders per document
+├── .env                     # Your API keys
+```
+
